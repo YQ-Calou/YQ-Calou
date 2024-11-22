@@ -1,8 +1,10 @@
-# <center>YQ_Calou </center>
+<div align="center">
+# YQ_Calou
 
-<center>A university student in Taiwan</center>
+A university student in Taiwan
 
-<center>AI Developer</center>
+AI Developer
+</div>
 
 -----
 
