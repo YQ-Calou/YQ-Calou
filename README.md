@@ -1,8 +1,8 @@
 <div align="center">
+    
 # YQ_Calou
 
-A university student in Taiwan
-
+A university student in Taiwan<br>
 AI Developer
 </div>
 
