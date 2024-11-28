@@ -16,6 +16,7 @@ AI Developer
 - ⭐Main Projects
     - Artificial Intelligence
     - Website Design
+    - Script Programming
 - 🚮Learning Experience
     - 2012 y. - Today
 - 💻Environment
