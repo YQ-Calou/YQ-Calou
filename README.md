@@ -13,6 +13,7 @@ AI Developer
     - Node.js
     - Python (unstable)
     - HTML, CSS, JS
+    - other (10+)
 - ⭐Main Projects
     - Artificial Intelligence
     - Website Design
