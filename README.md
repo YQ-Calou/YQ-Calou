@@ -1,6 +1,6 @@
 <div align="center">
     
-# YQ_Calou
+# Calou Zhou
 
 A university student in Taiwan<br>
 AI Developer
